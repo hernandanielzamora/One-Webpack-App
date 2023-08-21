@@ -41,6 +41,7 @@
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
+<details>
 <summary>Frontend</summary>
   <ul>
     <li><a href="https://es.react.dev/">React JS</a></li>
@@ -174,6 +175,6 @@ I would like to thank Microverse for teaching me Ruby.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](../../LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
